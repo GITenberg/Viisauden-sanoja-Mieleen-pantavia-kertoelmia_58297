@@ -1,5 +1,8 @@
 _repo: Viisauden-sanoja-Mieleen-pantavia-kertoelmia_58297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spurgeon, C. H. (Charles Haddon)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41725'
     url: http://www.gutenberg.org/2009/agents/41725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58297#Viisauden-sanoja-Mieleen-pantavia-kertoelmia
 gutenberg_issued: '2018-11-17'
 gutenberg_type: Text
 identifiers:
